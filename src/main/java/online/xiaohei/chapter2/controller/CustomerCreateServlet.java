@@ -1,4 +1,4 @@
-package online.xiaohei.chapter2.service;
+package online.xiaohei.chapter2.controller;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
