@@ -5,6 +5,9 @@ package online.xiaohei.chapter2.model;
  * @desc 客户
  */
 
+import lombok.ToString;
+
+@ToString
 public class Customer {
     private long id;
     private String name;
